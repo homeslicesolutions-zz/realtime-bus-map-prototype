@@ -1,0 +1,32 @@
+{
+  "header": {
+    "gtfs_realtime_version": "1",
+    "incrementality": 0,
+    "timestamp": 1517462850,
+    "user-data": "trimet"
+  },
+  "entity": [
+    {
+      "id": "224",
+      "vehicle": {
+        "trip": {
+          "trip_id": "7936868",
+          "route_id": "100"
+        },
+        "vehicle": {
+          "id": "224",
+          "label": "Blue to Hillsboro"
+        },
+        "position": {
+          "latitude": 45.51821,
+          "longitude": -122.69412,
+          "bearing": 291
+        },
+        "current_stop_sequence": 30,
+        "stop_id": "10117",
+        "current_status": 1,
+        "timestamp": 1517462850
+      }
+    }
+  ]
+}

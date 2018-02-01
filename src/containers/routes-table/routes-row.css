@@ -1,0 +1,23 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  border-top: 1px solid black;
+  padding: 5px 10px;
+}
+
+.row:hover {
+  cursor: pointer;
+}
+
+.row--active {
+  background: #ccc;
+}
+
+.row__route {
+  flex: 1;
+}
+
+.row__total-buses {
+  flex: 1;
+  text-align: right;
+}

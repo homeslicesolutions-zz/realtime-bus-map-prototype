@@ -1,0 +1,18 @@
+.app {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+.app__header {
+  padding: 0 10px;
+}
+
+.app__table {
+  flex: 1;
+  overflow: auto;
+}
+
+.app__map {
+  flex: 2; 
+}

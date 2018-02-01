@@ -1,0 +1,5 @@
+.row.row--header {
+  font-weight: bold;
+  border-top: none;
+  background: #f4f4f4;
+}
