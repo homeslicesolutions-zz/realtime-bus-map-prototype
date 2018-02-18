@@ -1,6 +1,8 @@
 # Realtime Bus Map Prototype
 Creating a Realtime Bus Map using React/Redux with Satori APIs
 
+NOTE: Use ```yarn``` over NPM if you're on a Windows machine.  I had issues with installing ```react-scripts``` on Windows with NPM 5.  Try running ```npx yarn``` or if you already have yarn just run ```yarn``` 
+
 Few key points:
 * Portland TriMap was chosen to be used
 * Redux was used to store data and UI state (filtering)

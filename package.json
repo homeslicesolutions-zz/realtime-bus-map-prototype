@@ -9,11 +9,12 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.6",
-    "react-scripts": "1.1.0",
+    "react-scripts": "1.1.1",
     "redux": "^3.7.2",
     "satori-rtm-sdk": "^1.2.2"
   },
   "scripts": {
+    "install": "npx yarn",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
