@@ -2,7 +2,7 @@ import RTM from 'satori-rtm-sdk';
 
 function transChannelInit(callback = ()=>{}) {
   const endpoint = "wss://open-data.api.satori.com";
-  const appKey = "17B9dFcc138Cf9e2385E41270f6De6AA";
+  const appKey = "Fdea89aBAD5Bff3b94a6B6CFdd9F3c35";
   const channel = "transportation";
   const userData = "trimet";
 
